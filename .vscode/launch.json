@@ -11,18 +11,15 @@
             "type": "chrome",
             "webRoot": "${workspaceFolder}"
         },
-        {
-            "name": "Attach to Chrome",
-            "port": 9222,
-            "request": "attach",
-            "type": "chrome",
-            "webRoot": "${workspaceFolder}"
-        },
+       
+        
+       
+       
         {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "d:\\MEAN\\Templates\\Green\\index.html"
+            "file": "D:\\MEAN\\assignemnts\\Assignment2 keralatourism vali\\index.html"
         }
     ]
 }
